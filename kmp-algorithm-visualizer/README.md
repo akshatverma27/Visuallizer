@@ -26,20 +26,3 @@ The Knuth-Morris-Pratt (KMP) algorithm is an efficient string matching technique
 
 ---
 
-## Getting Started
-To run the project locally:
-
-### HTTP
-```bash
-git clone git@github.com:aditisingh02/kmp-algorithm-visualizer.git
-```
-
-### SSH
-```bash
-git clone https://github.com/aditisingh02/kmp-algorithm-visualizer.git
-```
-```bash
-cd kmp-algorithm-visualizer
-npm install
-npm run dev
-```
